@@ -3,7 +3,7 @@ Change Emdb sit file resoultion by voxel size
   
 ## Requirement file
 * EMDB sit file(PDB file converted by pdb_to_xyz)
-* format : emd_(EMDB_Number).sit
+  - format : emd_(EMDB_Number).sit
 
 ## Input
 * Target data EMDB number
